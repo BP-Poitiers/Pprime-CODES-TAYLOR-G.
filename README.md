@@ -7,5 +7,5 @@ TaylorG.py :
  - Class TaylorGoldstein : Solves the Taylor-Goldstein equation for a given stratification lattice (and for k_x and omega given)
 
 Tutorials :
- - tuto_reader.py : tutorial for using XDMF_reader (uses the data_0p7 directory)
+ - tuto_reader.py : tutorial for using XDMF_reader (require a data directory with xdmf snaphots and their corresponding binary files)
  - tuto_TaylorG : tutorial for using TaylorGoldstein
